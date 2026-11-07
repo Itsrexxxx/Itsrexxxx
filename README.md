@@ -4,7 +4,7 @@
 
 <p align="center">
 Mahasiswa Teknologi Rekayasa Perangkat Lunak, Politeknik Negeri Padang. Fokus backend: API, basis data, dan sistem operasi penerbangan.<br/>
-<em>Informatics Engineering student at Politeknik Negeri Padang. Backend-focused: APIs, databases, and flight-operations systems.</em>
+<em>Software Engineering student at Politeknik Negeri Padang. Backend-focused: APIs, databases, and flight-operations systems.</em>
 </p>
 
 <p align="center">
