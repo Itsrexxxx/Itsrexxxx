@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3748,50:4A5568,100:718096&height=190&section=header&text=Reykel%20Raflen%20Awang&fontSize=42&fontColor=E2E8F0&fontAlignY=38&desc=Backend%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16" alt="header" />
+  <img src="./assets/header.svg" alt="Reykel Raflen Awang - Backend | Full-Stack Developer" width="100%" />
 </p>
 
 <p align="center">
