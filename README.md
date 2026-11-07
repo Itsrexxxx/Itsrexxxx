@@ -87,8 +87,10 @@ API backend untuk pemindaian kulit: autentikasi, unggah gambar, penyimpanan hasi
 Eksperimen caching dan struktur data Redis di Go.
 <em>Redis caching and data-structure experiments in Go.</em>
 
-Proyek privat (magang Mabes TNI AU): sistem operasi penerbangan — sumber tidak dipublikasikan, repo menyusul.
-<em>Private project (internship): flight-operations system — source not public, repo coming later.</em>
+**SIMOPSUD** · FastAPI · React · MySQL · Docker
+Sistem operasi penerbangan (magang Mabes TNI AU): penugasan misi, pemantauan pangkalan udara, operasional armada, peta situasi, dan audit aktivitas.
+Terverifikasi: pytest 116 lulus · E2E 9 lulus · UAT 8/8 · Postman 48 request / 83 assertion / 0 gagal.
+Sumber privat, repo menyusul. <em>Private source — repo coming soon.</em>
 
 ---
 
