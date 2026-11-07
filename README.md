@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3748,50:4A5568,100:718096&height=190&section=header&text=Reykel%20Raflen%20Awang&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=60&descSize=16" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3748,50:4A5568,100:718096&height=190&section=header&text=Reykel%20Raflen%20Awang&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16" alt="header" />
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ Mahasiswa Teknik Informatika, Politeknik Negeri Padang. Fokus backend: API, basi
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Itsrexxxx&hide_border=true&background=1A202C&stroke=2D3748&ring=718096&fire=E2E8F0&currStreakLabel=A0AEC0&sideLabels=A0AEC0&dates=718096" alt="streak" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Itsrexxxx&theme=github_dark" alt="stats" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Itsrexxxx&theme=github_dark" alt="most commit language" height="165" />
 </p>
 
@@ -87,8 +87,8 @@ API backend untuk pemindaian kulit: autentikasi, unggah gambar, penyimpanan hasi
 Eksperimen caching dan struktur data Redis di Go.
 <em>Redis caching and data-structure experiments in Go.</em>
 
-Proyek privat (magang): sistem operasi penerbangan — tidak dipublikasikan.
-<em>Private project (internship): flight-operations system — not public.</em>
+Proyek privat (magang Mabes TNI AU): sistem operasi penerbangan — sumber tidak dipublikasikan, repo menyusul.
+<em>Private project (internship): flight-operations system — source not public, repo coming later.</em>
 
 ---
 
