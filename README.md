@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Mahasiswa Teknik Informatika, Politeknik Negeri Padang. Fokus backend: API, basis data, dan sistem operasi penerbangan.<br/>
+Mahasiswa Teknologi Rekayasa Perangkat Lunak, Politeknik Negeri Padang. Fokus backend: API, basis data, dan sistem operasi penerbangan.<br/>
 <em>Informatics Engineering student at Politeknik Negeri Padang. Backend-focused: APIs, databases, and flight-operations systems.</em>
 </p>
 
